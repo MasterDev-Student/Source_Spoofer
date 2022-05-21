@@ -1,0 +1,11 @@
+HwProfileGuid:
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001\HwProfileGuid
+
+MachineGuid:
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography\MachineGuid
+
+Fortnite Identifiers:
+HKEY_CURRENT_USER\Software\Epic Games\Unreal Engine\Identifiers
+
+PC Name:
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters
