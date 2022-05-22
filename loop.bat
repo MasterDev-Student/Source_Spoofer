@@ -1,5 +1,5 @@
 @echo off
-title Loop
+title Loopp
 :loop
 @reg delete "HKEY_CURRENT_USER\Software\Epic Games" /f
 @RD /S /Q "%localappdata%\FortniteGame"
@@ -12,6 +12,6 @@ title Loop
 del "C:\Recovery\ntuser.sys"
 del "C:\MSOCache" /p
 del "C:\Users\Public\Shared Files" 
-goto loop
+goto loopp
 
 xd
