@@ -1,5 +1,5 @@
 @echo off
-title IP
+title IP Spoof
 ipconfig /release
 ipconfig /flushdns
 ipconfig /renew
